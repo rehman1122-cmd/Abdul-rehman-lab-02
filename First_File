@@ -1,2 +1,10 @@
 Console.WriteLine("Abdul Rehman");
 Console.WriteLine("24-ST-041");
+Console.WriteLine("ISC Subjects");
+Console.WriteLine("Physics");
+Console.WriteLine("Computer");
+Console.WriteLine("Islamiyat");
+Console.WriteLine("Quran translation");
+Console.WriteLine("English");
+Console.WriteLine("urdu");
+
