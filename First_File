@@ -7,4 +7,13 @@ Console.WriteLine("Islamiyat");
 Console.WriteLine("Quran translation");
 Console.WriteLine("English");
 Console.WriteLine("urdu");
+Console.WriteLine("Semester 1 Subjects");
+Console.WriteLine("CP")
+Console.WriteLine("ITS");
+Console.WriteLine("EHS");
+Console.WriteLine("Physics");
+Console.WriteLine("Islamiyat");
+Console.WriteLine("MAth");
+
+
 
